@@ -2,6 +2,10 @@
 /**************************** CHANGES HISTORY *********************************/
 /* mod. dll_001, 24/01/2005, E. Campra                                        */
 /* descrizione: sinottico macchina variabile a seconda di machine_type FIXME  */
+/* mod. dll_002, 14/05/2012, E. Campra                                        */
+/* descrizione: sinottico macchina variabile a seconda di machine_type FIXME  */
+/* mod. dll_003, 14/05/2012, E. Campra                                        */
+/* descrizione: sinottico macchina variabile a seconda di machine_type FIXME  */
 /******************************************************************************/
 
 //---------------------------------------------------------------------------
