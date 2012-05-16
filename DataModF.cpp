@@ -63,7 +63,8 @@ sObemFunz PrgFunctions_ENG[NUM_MAX_FUN]={
 ,1,10,"End temperature             [°C]",140,10
 ,1,0,"Termic control          (0=N,1=Y)",1,0
 ,1,0,"Waiting                     (sec)",999,0
-,0,0,"Level ",0,0
+//,0,0,"Level ",0,0
+,1,1,"Level ",5,1
 ,1,0,"Speed main pump",100,0},
 
 
